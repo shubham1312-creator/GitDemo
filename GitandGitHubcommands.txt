@@ -31,3 +31,11 @@ new v4
 
 git pull origin main 
 git status
+
+git add .
+git status
+git commit -m "commitmessage"
+git push
+
+if u have to create a new branch
+git checkout -b "branchname"
